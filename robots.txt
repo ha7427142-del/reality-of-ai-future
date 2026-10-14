@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ha7427142-del.github.io/reality-of-ai-future/sitemap.xml
